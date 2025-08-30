@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Earthquake Visualizer (React + Leaflet)
 
 **Persona**: Casey (Geography student) wants to explore global seismic activity from the past 24 hours.  
@@ -32,3 +33,6 @@ Deploy `dist/` to Netlify or Vercel.
 ```bash
 npx vitest
 ```
+=======
+# Earthquake
+>>>>>>> b76c190f06425b70ab87ce0d18bc0582fcdbd92d
